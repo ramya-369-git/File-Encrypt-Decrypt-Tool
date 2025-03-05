@@ -8,7 +8,7 @@ Features.
 3. Works with binary files.
 
 Requirements.
-1. C++ compiler (e.g., g++)
+1. C++ compiler (e.g., gcc)
 2. Basic understanding of XOR encryption.
 3. IDE (e.g., Visual Studio, Code::Blocks, or any C++ supported IDE)
 
