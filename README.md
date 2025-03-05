@@ -1,11 +1,11 @@
-XOR Encryption/Decryption for Files
-This C++ program allows you to perform simple XOR encryption and decryption on a file.
-It encrypts and decrypts the content of a file using a single character as the key.
+XOR Encryption/Decryption for Files.
+1. This C++ program allows you to perform simple XOR encryption and decryption on a file.
+2. It encrypts and decrypts the content of a file using a single character as the key.
 
-Features
--> Encrypt and decrypt any file.
--> XOR-based encryption/decryption using a single character as the key.
--> Works with binary files.
+Features.
+1. Encrypt and decrypt any file.
+2. XOR-based encryption/decryption using a single character as the key.
+3. Works with binary files.
 
 Requirements
 C++ compiler (e.g., g++)
